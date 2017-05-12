@@ -3,3 +3,15 @@
 Last updated on: 12May2017
 ```
 Documents on Packages and Concepts of Machine learning
+
+## Directory Structure
+
+```
+.
++-- boosting
++-- data.table
++-- h2o
++-- MLR
++-- parameter-tuning
++-- xgboost
+```
