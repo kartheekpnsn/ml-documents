@@ -1,6 +1,6 @@
 # Repo name: ml-documents
 ```
-Last updated on: 12May2017
+Last updated on: 12MAY2017
 ```
 Documents on Packages and Concepts of Machine learning
 
