@@ -1,0 +1,12 @@
+Exploratory Analysis - Insights generation
+Report Creation – Insights Reports
+Developing model through multiple iteration
+	Identifying significant indicators
+	Model Validation
+Validating the model robustness
+	Final set of triggers and events
+Claim Segmentation
+	Clustering risky claims
+	Profiling clusters and recommendation
+Missed opportunity analysis
+Categorisation of missed opportunities - Profiling Claims
