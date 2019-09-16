@@ -1,0 +1,6 @@
+https://www.javatpoint.com/graph-theory-basic-properties
+https://www.geeksforgeeks.org/basic-properties-of-a-graph/
+https://www.tutorialspoint.com/graph_theory/index.htm
+https://towardsdatascience.com/learning-in-graphs-with-python-part-3-8d5513eef62d
+https://www.analyticsvidhya.com/blog/2018/04/introduction-to-graph-theory-network-analysis-python-codes/
+https://networkx.github.io/documentation/latest/reference/algorithms/generated/networkx.algorithms.similarity.graph_edit_distance.html
