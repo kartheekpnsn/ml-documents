@@ -1,0 +1,12 @@
+https://www.kaggle.com/anbarivan/indian-air-quality-analysis-prediction-using-ml
+https://www.kaggle.com/mhajabri/air-pollution-101
+https://www.kaggle.com/diegovicente/particle-levels-prediction-using-lstm
+https://www.kaggle.com/dongeorge/predicting-air-quality-lstm/notebook
+
+https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
+https://machinelearningmastery.com/multi-step-time-series-forecasting-long-short-term-memory-networks-python/
+https://machinelearningmastery.com/tune-lstm-hyperparameters-keras-time-series-forecasting/
+https://machinelearningmastery.com/use-timesteps-lstm-networks-time-series-forecasting/
+https://machinelearningmastery.com/multi-step-time-series-forecasting-long-short-term-memory-networks-python/
+https://machinelearningmastery.com/use-features-lstm-networks-time-series-forecasting/
+https://machinelearningmastery.com/how-to-grid-search-deep-learning-models-for-time-series-forecasting/
